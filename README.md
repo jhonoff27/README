@@ -14,9 +14,9 @@ Atualmente, estou focado em melhorar minhas habilidades em lógica de programaç
 🔭 Projetos Recentes
 Ainda estudando um bom primeiro projeto...
 📫 Como Me Encontrar
-GitHub: [(https://github.com/jhonoff27)]
-LinkedIn: [www.linkedin.com/in/jhommartins/]
-E-mail: [jhom2710@gmail.com]
+GitHub: https://github.com/jhonoff27
+LinkedIn: www.linkedin.com/in/jhommartins/]
+E-mail: jhom2710@gmail.com
 Um Pouco Mais Sobre Mim
 Quando não estou estudando, gosto de tocar guitarra, ler ficção científica e jogar League of legends. Ainda estou aprendend mas estou sempre aberto a novas oportunidades e colaborações interessantes, então não hesite em entrar em contato!
 
