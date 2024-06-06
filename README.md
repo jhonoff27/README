@@ -8,6 +8,7 @@ Linguagens de Programação: HTML, CSS, JavaScript (Nível básico)
 Frameworks e Bibliotecas: Pretendo começar a estudar React
 Ferramentas e Tecnologias: Aprendendo Git e VS Code
 Áreas de Interesse: Desenvolvimento Front-End, Design de Interfaces de Usuário (UI) e (UX)
+
 🌱 O Que Estou Aprendendo
 Atualmente, estou focado em melhorar minhas habilidades em lógica de programação, me aprofundar em HTML, CSS e Javascript para desenvolver aplicações web pensando na utilidade, simplicidade e boa performance. Também estou estudando os fundamentos de design para entender o funcionamento visual de boas aplicações.
 
