@@ -1,5 +1,9 @@
 # README
-Sobre Mim
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://br.pinterest.com/pin/751749362831917590/)">
+ <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://br.pinterest.com/pin/751749362831917590/)">
+ <img alt="Front end Developer" src="YOUR-DEFAULT-IMAGE">
+</picture>
 👋 Olá! Meu nome é Jonatham martins
 👨‍💻 Sou um estudante de Análise e Desenvolvimento de Sistemas na UNIP, atualmente estou no 1º semestre então estou tendo meus primeiros contatos com o universo DEV, encontrei a área Front-end por um acaso mas me apaixonei na hora, e mesmo entendendo pouco eu estou muito animado para iniciar meus primeiros projetos na área.
 
