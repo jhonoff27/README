@@ -16,16 +16,11 @@ Ferramentas e Tecnologias: Aprendendo Git e VS Code
 Atualmente estou focado em melhorar minhas habilidades de lógica de programação, me aprofundar em HTML, CSS e Javascript para desenvolver aplicações web pensando na utilidade, simplicidade e performance, também estou estudando os fundamentos de design para entender o funcionamento visual de boas aplicações.
 </p>
 
-<p align="left"📫 Como Me Encontrar:
-
+<p align="left">📫 Como Me Encontrar:
 GitHub: https://github.com/jhonoff27
-
 LinkedIn: www.linkedin.com/in/jhommartins/
-
 E-mail: jhom2710@gmail.com
 
-Um Pouco Mais Sobre Mim😄:
-
-Quando não estou estudando, gosto de tocar guitarra, ler ficção científica e jogar League of legends. Ainda estou aprendend mas estou sempre aberto a novas oportunidades e colaborações interessantes, então não hesite em entrar em contato!
+Um Pouco Mais Sobre Mim😄:   Quando não estou estudando, gosto de tocar guitarra, ler ficção científica e jogar League of legends. Ainda estou aprendend mas estou sempre aberto a novas oportunidades e colaborações interessantes, então não hesite em entrar em contato!
 </p>
 
