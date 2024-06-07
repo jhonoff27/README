@@ -19,10 +19,9 @@ Atualmente estou focado em melhorar minhas habilidades de lógica de programaç�
 📞 Meus Contatos: ⤵️
 
 <p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link="jhom2710@gmail.com" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link="https://www.linkedin.com/in/jhommartins/" alt="LinkedIn"/></a>
+
+  [![Linkedin](https://img.shields.io/badge/-Jhommartins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhommartins/)](https://www.linkedin.com/in/jhommartins/)
+[![Gmail Badge](https://img.shields.io/badge/-jhom2710@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jhom2710@gmail.com)](mailto:jhom2710@gmail.com)
 </p>
 Um Pouco Mais Sobre Mim😄:   Quando não estou estudando, gosto de tocar guitarra, ler ficção científica e jogar League of legends, ainda estou explorando e aprendendo esse novo mundo de "DEV" mas estou sempre aberto a novas oportunidades e colaborações interessantes, então não hesite em entrar em contato!
 </p>
